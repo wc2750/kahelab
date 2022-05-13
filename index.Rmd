@@ -8,7 +8,7 @@ output:
     toc_float: true
 ---
 
-# This is Professor Kahe's lab
+## This is Professor Kahe's lab
 
 <center>
 
@@ -18,8 +18,21 @@ output:
 <br>
 
 
-# Introduction
+## Introduction
 Our lab investigates...
 
-# Team member
+## Published literatures
+[1]\
+[2]\
+[3]\
+[4]\
+\
+\
+\
+\
+\
+
+
+
+## Team member
 - Weixi Chen | [Website](https://wc2750.github.io/)
