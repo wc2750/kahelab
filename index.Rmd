@@ -6,7 +6,6 @@ output:
       title: "Home"
     toc: true
     toc_float: true
-    theme: cerulean
 ---
 
 # This is Professor Kahe's lab
